@@ -6,7 +6,7 @@
 
 /**
  *
- * @author aish
+ * @author samkit5495
  */
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HBaseConfiguration;
